@@ -137,6 +137,7 @@ let _ARM_OP_CIMM = 64;;
 let _ARM_OP_PIMM = 65;;
 let _ARM_OP_SETEND = 66;;
 let _ARM_OP_SYSREG = 67;;
+let _ARM_OP_ADDR = 68;;
 
 (* Operand type for SETEND instruction *)
 

@@ -137,6 +137,7 @@ ARM_OP_CIMM = 64
 ARM_OP_PIMM = 65
 ARM_OP_SETEND = 66
 ARM_OP_SYSREG = 67
+ARM_OP_ADDR = 68
 
 # Operand type for SETEND instruction
 
